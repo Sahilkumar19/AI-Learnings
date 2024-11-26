@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## How to use it?
 
-clone the repo and go to the AGENTS Directory then run the below command
+clone the repo and go to the Agents Directory then run the below command
 
 ```bash
 python Marketing_Agent.py
