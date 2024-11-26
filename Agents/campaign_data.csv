@@ -1,0 +1,11 @@
+CampaignID,Impressions,Clicks,Conversions,Spend,Revenue,Status
+101,1000,10,1,100,150,Active
+102,500,3,0,50,0,Active
+103,1500,25,5,250,500,Active
+104,2000,50,10,300,600,Active
+105,3000,100,20,400,800,Active
+106,1200,10,2,120,180,Active
+107,800,5,1,80,120,Active
+108,2500,75,15,350,700,Active
+109,4000,200,40,500,1000,Active
+110,3500,60,12,250,400,Active
